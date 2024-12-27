@@ -6,7 +6,7 @@ A feature-rich Instagram clone built with Flutter and Firebase, replicating core
 
 ## Demo Links
 - **App Demo (LinkedIn)**: [Instagram Clone Demo](https://www.linkedin.com/posts/hussain-ali-0805b8282_created-a-instagram-clone-app-where-you-can-activity-7152198564985683968-s0QL?utm_source=share&utm_medium=member_desktop)
---**Pictures [Pictures](https://www.linkedin.com/posts/hussain-ali-0805b8282_added-a-lot-of-features-to-the-app-like-posting-activity-7148731237350764544-KRi6?utm_source=share&utm_medium=member_desktop)
+- **Pictures [Pictures](https://www.linkedin.com/posts/hussain-ali-0805b8282_added-a-lot-of-features-to-the-app-like-posting-activity-7148731237350764544-KRi6?utm_source=share&utm_medium=member_desktop)
 
 ---
 ## Features
